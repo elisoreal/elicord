@@ -17,7 +17,7 @@ A cute, white and pink Discord theme with rounded corners and soft aesthetics.
 
 Add this to your QuickCSS:
 
-/**
+--/**
  * @name elicord
  * @description A cute, white and pink discord theme with rounded corners
  * @author elisoreal
