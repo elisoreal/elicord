@@ -1,12 +1,12 @@
 /**
- * Soft Kitty Theme - Variables
+ * Elicord Theme - Variables
  * Contains all variables used throughout the theme
  */
 
 :root {
   /* Typography */
   --font: 'Quicksand';
-  --corner-text: 'Kitty';
+  --corner-text: 'elicord :3';
   
   /* Dividers */
   --divider-thickness: 2px;
