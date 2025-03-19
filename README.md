@@ -1,2 +1,4 @@
 # elicord
-discord theme
+
+my discord theme ♥
+no instructions included
