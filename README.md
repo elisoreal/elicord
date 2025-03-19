@@ -1,0 +1,2 @@
+# elicord
+discord theme
