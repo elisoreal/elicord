@@ -1,0 +1,43 @@
+{
+  "name": "soft-kitty-discord",
+  "version": "1.0.0",
+  "description": "A cute, white and pink Discord theme with rounded corners",
+  "main": "dist/soft-kitty.theme.css",
+  "scripts": {
+    "build": "postcss src/index.css -o dist/soft-kitty.theme.css",
+    "watch": "postcss src/index.css -o dist/soft-kitty.theme.css --watch",
+    "lint": "stylelint src/**/*.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/soft-kitty-discord.git"
+  },
+  "keywords": [
+    "discord",
+    "theme",
+    "betterdiscord",
+    "powercord",
+    "vencord",
+    "cute",
+    "pink",
+    "white",
+    "rounded"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/soft-kitty-discord/issues"
+  },
+  "homepage": "https://github.com/yourusername/soft-kitty-discord#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.24",
+    "postcss-cli": "^10.1.0",
+    "postcss-import": "^15.1.0",
+    "postcss-nested": "^6.0.1",
+    "stylelint": "^15.6.2",
+    "stylelint-config-standard": "^33.0.0"
+  }
+}
