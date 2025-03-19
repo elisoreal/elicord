@@ -1,8 +1,8 @@
 {
-  "name": "soft-kitty-discord",
+  "name": "elicord",
   "version": "1.0.0",
   "description": "A cute, white and pink Discord theme with rounded corners",
-  "main": "dist/soft-kitty.theme.css",
+  "main": "dist/elicord.css",
   "scripts": {
     "build": "postcss src/index.css -o dist/soft-kitty.theme.css",
     "watch": "postcss src/index.css -o dist/soft-kitty.theme.css --watch",
@@ -24,7 +24,7 @@
     "white",
     "rounded"
   ],
-  "author": "Your Name",
+  "author": "elisoreal",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yourusername/soft-kitty-discord/issues"
